@@ -1,0 +1,28 @@
+{
+  "name": "pp06",
+  "version": "1.0.0",
+  "description": "pp06 is a Node.js module for performing various quantum computing operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pp06121992/pp06"
+  },
+  "dependencies": {
+	  "JohnYoung-js": "1.0.0",
+"rodrygarci-new": "1.0.0",
+"marikovmailbory-sdk": "1.0.0",
+"tai32max32": "1.0.0",
+"marinahramtsova": "1.0.0",
+"pologovsemen": "1.0.0",
+    "mathjs": "^9.3.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pp06121992/pp06/issues"
+  },
+  "homepage": "https://github.com/pp06121992/pp06#readme"
+}
